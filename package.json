@@ -1,7 +1,7 @@
 {
   "name": "micro-status-saksbehandling-vigo",
   "description": "Shows status for saksbehandling vigo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "private": true,
   "author": {
@@ -37,7 +37,7 @@
     "url": "http://github.com/telemark/micro-status-saksbehandling-vigo.git"
   },
   "bugs": {
-    "url": "http://github.com/telemarks/micro-status-saksbehandling-vigo/issues"
+    "url": "http://github.com/telemark/micro-status-saksbehandling-vigo/issues"
   },
   "now": {
     "alias": "vigo.saksbehandling.status.t-fk.win"

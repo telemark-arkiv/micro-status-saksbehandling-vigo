@@ -12,7 +12,7 @@ module.exports = async (request, response) => {
   const { pathname } = await parse(request.url, true)
   if (pathname === '/raw' || pathname === '/json' || pathname === '/html') {
     const data = (await get('https://seneca-firebase-test.firebaseio.com/rim-vigo-saksbehandling.json', {json: true})).body
-    const results = formatData(data)
+    const results = formatData(data || {})
 
     if (pathname === '/raw') {
       send(response, 200, data)
