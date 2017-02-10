@@ -3,6 +3,8 @@
 
 # micro-status-saksbehandling-vigo
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/telemark/micro-status-saksbehandling-vigo.svg)](https://greenkeeper.io/)
+
 Shows status for saksbehandling vigo
 
 ## API
