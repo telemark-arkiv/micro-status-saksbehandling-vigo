@@ -1,7 +1,7 @@
 {
   "name": "micro-status-saksbehandling-vigo",
   "description": "Shows status for saksbehandling vigo",
-  "version": "1.0.24",
+  "version": "1.0.25",
   "license": "MIT",
   "private": true,
   "author": {
